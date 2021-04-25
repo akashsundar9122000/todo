@@ -53,7 +53,7 @@ function App() {
         setInput(event.target.value)
       }}/>
 
-      <Button type="submit" variant="contained" onClick={addTodo} style={{margin:"10px 10px"}}>Default</Button>
+      <Button type="submit" variant="contained" onClick={addTodo} style={{margin:"10px 10px"}}>Add Note</Button>
       
       </form>
 
